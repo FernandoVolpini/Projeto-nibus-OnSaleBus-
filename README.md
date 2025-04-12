@@ -1,7 +1,3 @@
-Analisando o documento da sua atividade, vou ajustar a descrição para incluir todos os requisitos e estruturas mencionadas. Segue uma versão completa e alinhada com o escopo do projeto:
-
----
-
 ### **Sistema de Gerenciamento de Viagens - Java POO**
 
 **Descrição:**  
