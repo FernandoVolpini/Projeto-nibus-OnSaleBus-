@@ -49,9 +49,3 @@ Aplicação de console em Java para gestão completa de uma empresa de transport
 
 **Tecnologias:**  
 `Java 11+` | `Collections Framework` | `Serialização`  
-
----
-
-**Observações Adicionais:**  
-- Incluí todos os pontos do documento, mas se você quiser destacar algo específico (como detalhes do cálculo do valor da passagem ou formato dos arquivos), posso ajustar!  
-- Sugiro adicionar um print do menu em funcionamento no seu README (se for um repositório GitHub).  
